@@ -1,0 +1,17 @@
+#container {
+    margin: 0 auto;
+    text-align: left;
+    width: 200px;
+    margin-top: 100px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    /* !!! */
+}
+
+#number {
+    font-size: xx-large;
+}
